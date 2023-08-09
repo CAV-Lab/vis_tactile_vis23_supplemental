@@ -1,7 +1,7 @@
 # Let's Get Vysical 
 This repo hosts the supplemental materials for our 2023 VIS research paper:
 
-**Let’s Get Vysical: Perceptual Accuracy in Visual & Tactile Encodings**  
+[**Let’s Get Vysical: Perceptual Accuracy in Visual & Tactile Encodings**][https://arxiv.org/abs/2308.04392]
 Zhongzheng Xu, Kristin Williams, and Emily Wall  
 _IEEE Transactions on Visualization and Computer Graphics (TVCG, Proc. IEEE VIS'23). 2023._
 
@@ -55,6 +55,6 @@ The `Results` directory contains processed data analysis files.
   journal={IEEE Transactions on Visualization and Computer Graphics (TVCG)},
   year={2023},
   publisher={IEEE},
-  url={todo}
+  url={https://arxiv.org/abs/2308.04392}
 }
 ```
